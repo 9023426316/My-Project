@@ -1,4 +1,4 @@
 # My-Project
 My first Git Project
 <br>
-Author:Prince Akbari
+Author:Prince Akbari (Prince)
