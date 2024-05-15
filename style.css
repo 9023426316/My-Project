@@ -1,3 +1,25 @@
 p{
     color: red;
 }
+.logo{
+    height: 8vh;
+    width: 5vw;
+    border-radius: 10px;
+}
+
+#section2{
+  padding-top: 3%;
+  margin-left: 10%;
+}
+
+#section3{
+    padding-top: 3%;
+    margin-left: 40%;
+    margin-top: -32%;
+  }
+
+  #section4{
+    padding-top: 3%;
+    margin-left: 70%;
+    margin-top: -32%;
+  }
